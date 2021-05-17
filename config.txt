@@ -1,4 +1,4 @@
 Smtp server:smtp.gmail.com
-Email id:pythonproject26@gmail.com
+Email id:pythonproject27@gmail.com
 File Name:sampleMarkList.xlsx
 Sheet Name:Sheet1
