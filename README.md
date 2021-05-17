@@ -1,5 +1,5 @@
 Modules used -
-1) smtplib  - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon.
+1) smtplib - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP or ESMTP listener daemon.
 2) SSL - is designed to create secure connection between client and server.
 3) openpyxl - Openpyxl is a Python library for reading and writing Excel (with extension xlsx).
 4) getpass - getpass prompts the user for a password without echoing ie inputs the password from the user without showing it in the terminal for better security.
